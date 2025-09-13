@@ -38,10 +38,10 @@
   </a>
 </p>
 
-**Lenguajes:** C#
-**Bases de Datos:** MySQL, SQL Server
-**Herramientas:** Git, GitHub, Visual Studio
-**Aprendiendo:** Flutter para desarrollo móvil
+**Lenguajes:** C# <br>
+**Bases de Datos:** MySQL, SQL Server <br>
+**Herramientas:** Git, GitHub, Visual Studio <br>
+**Aprendiendo:** Flutter para desarrollo móvil <br>
 
 ---
 
