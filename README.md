@@ -20,7 +20,7 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-<p align="left">
+<p align="center">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="sqlserver" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/lukway-dev/Logos/6ecf0f479079017875a4048faa3f5d0336ef3613/microsoft_sql_server.svg" alt="sqlserver" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -56,8 +56,8 @@
 ### 📫 ¿Conectamos?
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu_usuario_de_linkedin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu_usuario_de_linkedin" height="30" width="40" />
+  <a href="www.linkedin.com/in/milton-sandoval-monasterio-56767a29a" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Milton Sandoval Monasterio" height="30" width="40" />
   </a>
 </p>
 
