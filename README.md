@@ -56,7 +56,7 @@
 ### 📫 ¿Conectamos?
 
 <p align="left">
-  <a href="www.linkedin.com/in/milton-sandoval-monasterio-56767a29a" target="blank">
+  <a href="www.linkedin.com/in/milton-sandoval-monasterio-56767a29a" target="blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Milton Sandoval Monasterio" height="30" width="40" />
   </a>
 </p>
